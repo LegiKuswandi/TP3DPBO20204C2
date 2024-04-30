@@ -46,7 +46,7 @@ Menampilkan list character, dapat melakukan sort dan juga search
 ![Screenshot 2024-04-30 201807](https://github.com/LegiKuswandi/TP3DPBO20234C2/assets/147142081/57474927-65c4-4b57-8470-610d9ea0b0b7)
 
 #### Halaman Detail Character
-Menampilkan detail dari character yang dipilih
+Menampilkan detail dari character yang dipilih, dapat melakukan update dan juga delete
 ![Screenshot 2024-04-30 202644](https://github.com/LegiKuswandi/TP3DPBO20234C2/assets/147142081/5d95c86a-94d8-4a94-a548-080d752b2ac3)
 
 #### Halaman tambah character 
@@ -59,6 +59,8 @@ Menampilkan list squad, dapat melakukan sort, search, delete, update dan add
 
 #### Halaman list magic type
 Menampilkan list magic type, dapat melakukan sort, search, delete, update dan add
+![Screenshot 2024-04-30 201848](https://github.com/LegiKuswandi/TP3DPBO20204C2/assets/147142081/10509f66-7d08-4954-bfb5-cb33b598dbfc)
+
 
 
 
